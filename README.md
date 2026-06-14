@@ -22,4 +22,4 @@ python test.py
 
 ## Train
 
-the training code will be released when the manuscript is published.
+the training code will be released when the manuscript is accepted.
