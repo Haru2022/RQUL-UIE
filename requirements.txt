@@ -1,0 +1,15 @@
+numpy==1.26.4
+Pillow==11.1.0
+torch==2.2.0
+torchvision==0.17.0
+diffusers==0.30.2
+transformers==4.37.2
+tqdm==4.67.1
+opencv-python==4.11.0.86
+accelerate==0.27.2
+huggingface-hub==0.29.2
+safetensors==0.5.3
+fvcore==0.1.5.post20221221
+
+# Optional: install this separately if you need xFormers attention.
+# xformers
