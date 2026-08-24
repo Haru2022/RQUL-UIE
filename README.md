@@ -1,6 +1,6 @@
 # RQUL-UIE
 
-This is the official repo of RQUL-UIE contains the inference script and local pipeline code. The pre-trained model can be loaded by the huggingface model card "HaruCloud9/RQUL-UIE".
+This is the official repo of RQUL-UIE contains the inference script and local pipeline code. The pre-trained model can be loaded by the huggingface model card "HaruCloud9/RQUL-UIE", which is already preset in the test.py.
 
 ## Create the environment
 
